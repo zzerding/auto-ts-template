@@ -1,0 +1,13 @@
+{
+    "name": "dist",
+    "mainScriptFile": "main.js",
+    "main": "main.js",
+    "launchConfig": {
+        "hideLogs": false,
+        "stableMode": true,
+        "splashText": "SCRIPT PRO"
+    },
+    "packageName": "com.xian.yu.script",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
